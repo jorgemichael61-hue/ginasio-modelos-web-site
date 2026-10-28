@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40" role="img" aria-label="APEX ATHLETICS logo">
+  <!-- Demo logo for the fictional APEX ATHLETICS. Replace this file with the client's logo. -->
+  <rect width="40" height="40" rx="4" fill="#1A1F26"/>
+  <path d="M8 31 L20 8 L32 31" fill="none" stroke="#EEF0EC" stroke-width="4.5" stroke-linejoin="miter" stroke-linecap="square"/>
+  <rect x="5" y="22" width="30" height="4" fill="#2B44FF"/>
+</svg>
